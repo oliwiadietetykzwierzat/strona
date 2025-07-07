@@ -1218,6 +1218,9 @@
             },
             ".card-title": {
               "color": "#443435"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "color": "#443435"
             }
           },
           "_name": "features17",
