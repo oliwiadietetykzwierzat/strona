@@ -1052,6 +1052,26 @@ a {
   color: #8e8d8a;
   text-align: center;
 }
+.cid-uXvwBRjcF3 {
+  padding-top: 2rem;
+  padding-bottom: 0rem;
+  background-color: #9b2152;
+}
+.cid-uXvwBRjcF3 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uXvwBRjcF3 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uXvwBRjcF3 .mbr-section-title {
+  color: #ffffff;
+}
 .cid-u2SOcnnAUd {
   padding-top: 3rem;
   padding-bottom: 0rem;
